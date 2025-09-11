@@ -1,6 +1,6 @@
 
 const startDate = new Date("2025-09-01"); 
-const endDate = new Date("2025-12-31");
+const endDate = new Date("2025-10-10");
 
 const progressFill = document.getElementById("progress-fill");
 const progressContainer = document.querySelector(".progress-bar-container");
