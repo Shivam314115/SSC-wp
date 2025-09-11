@@ -166,10 +166,10 @@ body::before {
         bottom: 1rem;
     }
     .progress{
-        padding-top: 25%;
+        padding-top: 40px;
     }
     .container{
-        padding-top: 50%;
+        padding-top: 100px;
     }
     .logo{
         content: url("SSCshortlogo.png");
